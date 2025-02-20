@@ -31,11 +31,9 @@
 
 ###
 
-<h3 align="left">👨🏽‍💻 About Me!</h3>
+<h3 align="left">Lyn!</h3>
 
 ###
-
-<p align="left">Hi!<br>My name is Luiz Otávio (aka: Lyn)<br><br>- 🖥️ I’m working as Manager of I.T Bussines | Dev Jr.<br>- 📚 I'm currently learning Java, Node, React and Django.<br>- 🎮 In my free time I like going out with friends, travelling, cooking and studying.</p>
 
 ###
 
