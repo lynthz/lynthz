@@ -1,6 +1,24 @@
+<h1 align="center">いらっしゃいませ</h1>
+
+###
+
 <div align="center">
-  <img height="150" src=""  />
+  <img src="https://profile-counter.glitch.me/lynthz/count.svg?"  />
 </div>
+
+###
+
+<div align="center">
+  <img height="" src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif"  />
+</div>
+
+###
+
+<h3 align="left">About me:</h3>
+
+###
+
+<p align="left">- 🖥️ I’m working as Manager of I.T Bussines | Dev Jr.<br>- 📚 I'm currently learning Java, Node, React and Django.</p>
 
 ###
 
@@ -21,23 +39,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/lynthz/count.svg?"  />
-</div>
-
-###
-
-<h1 align="center">Olá! | Hi there! | Bienvenido! 🤗</h1>
-
-###
-
-<h3 align="left">Lyn!</h3>
-
-###
-
-###
-
-<h3 align="left">🛠 Language and tools:</h3>
+<h3 align="left">Language and tools:</h3>
 
 ###
 
@@ -65,16 +67,13 @@
 
 ###
 
-<h3 align="left">👾 Widgets:</h3>
-
-###
-
 <img src="https://raw.githubusercontent.com/lynthz/lynthz/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lynthz&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lynthz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lynthz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
