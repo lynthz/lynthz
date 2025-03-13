@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🖥️ I’m working as Manager of I.T Bussines | Dev Jr.<br>- 📚 I'm currently learning Java, Node, React and Django.</p>
+<p align="left">- 🖥️ I’m working as Manager of I.T Bussines | Dev Jr.<br>- 📚 I'm currently Java, Node, React, TS and Go!!</p>
 
 ###
 
