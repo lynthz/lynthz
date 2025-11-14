@@ -18,4 +18,4 @@ Tech Enthusiast.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-![](https://komarev.com/ghpvc/?username=lynthz)
+![](https://komarev.com/ghpvc/?username=lynthz&blueviolet)
