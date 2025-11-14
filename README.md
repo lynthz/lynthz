@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi
-
+Tech Enthusiast.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lynthz) 
@@ -19,4 +18,4 @@ Hi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lynthz&icon=2&color=13)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=lynthz)
