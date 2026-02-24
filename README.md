@@ -31,7 +31,7 @@ focus:
   - Infrastructure & Server Management
   - Cloud Environments (AWS / GCP)
 currently_working_on: Always something new...
-hobbies: [Tech, Security Research, Automation]
+hobbies: [Tech, Security Research, Study!]
 ```
 
 ---
@@ -77,7 +77,6 @@ hobbies: [Tech, Security Research, Automation]
   <img src="https://img.shields.io/badge/Google-Cloud%20Associate-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-> 💡 *Update this section with your actual certifications!*
 
 ---
 
