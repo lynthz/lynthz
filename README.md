@@ -19,7 +19,7 @@ focus:
   - Information Security
   - Full Stack Development
   - Infrastructure
-currently_working_on: Associate of Applied Science (AAS) in IT
+currently_working_on: Associate of Applied Science (AAS) in Cybersecurity
 hobbies: [Coding and reading]
 ```
 
@@ -86,9 +86,3 @@ hobbies: [Coding and reading]
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
-
----
-
-<div align="center">
-  <i>🔐 Securing, building, and keeping infrastructure alive — one commit at a time.</i>
-</div>
