@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello! 👋 I'm lynth — Welcome to my profile!
+# Hello! 👋 Welcome to my profile!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Information+Security+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%92%BB;Infrastructure+%26+Server+Admin+%F0%9F%96%A5%EF%B8%8F;Always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
