@@ -54,7 +54,7 @@ foco:
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Proxmox](https://img.shields.io/badge/proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
  
-</p>
+🚀 **MDO Flow** — SaaS B2B de WhatsApp com agentes de IA · [ver portfólio](LINK)
  
 ## 📫 Contato
  
