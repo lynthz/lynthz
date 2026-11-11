@@ -1,3 +1,5 @@
+<div align="center">
+
 # Olá! 👋 Eu sou o Luiz Otávio
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Agentes+de+IA+em+produ%C3%A7%C3%A3o+%F0%9F%A4%96;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Infraestrutura+e+Servidores+%F0%9F%96%A5%EF%B8%8F;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o+%F0%9F%94%90)](https://git.io/typing-svg)
