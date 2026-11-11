@@ -9,7 +9,6 @@ Construo produtos com IA que estão em produção e são usados todos os dias po
  
 <img src="https://komarev.com/ghpvc/?username=lynthz&color=blueviolet&style=flat-square&label=Visitas"/>
 </div>
----
  
 ## 🧑‍💻 Sobre mim
  
