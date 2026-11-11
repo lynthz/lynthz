@@ -16,7 +16,7 @@ Construo produtos com IA que estão em produção e são usados todos os dias po
 ```yaml
 nome: Luiz Otávio Ongaro (lynth)
 local: São Paulo, Brasil
-cargo: Desenvolvedor e Infraestrutura @ MDO Prime (desde jan/2024)
+cargo: Desenvolvedor @ MDO Prime (desde jan/2024) · Fundador @ Svulks
 formacao: Tecnólogo em Segurança da Informação - Fatec Americana (formatura jul/2028)
 foco:
   - Agentes de IA e automação
